@@ -1,0 +1,29 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "在线聊天室",
+  "main": "rooter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "chat-troom"
+  ],
+  "author": "YoungChou",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-session": "^2.0.0-beta.2",
+    "express": "^4.15.2",
+    "oauth": "^0.9.15",
+    "socket.io": "^1.7.3"
+  }
+}

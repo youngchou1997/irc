@@ -1,0 +1,3912 @@
+17:49:56 聊天室访问地址为 http://%s:%s,::,80
+17:52:9 聊天室访问地址为 http://%s:%s,::,80
+17:53:41 聊天室访问地址为 http://%s:%s,::,80
+17:53:43 [object Object]
+17:54:40 [object Object]
+17:54:46 [object Object]
+17:54:49 [object Object]
+17:54:51 [object Object]
+17:55:45 聊天室访问地址为 http://%s:%s,::,80
+17:55:46 在线用户: 1
+17:55:46 [object Object]
+17:55:46 1,disconnect登出
+17:55:46 在线用户: 
+17:55:49 在线用户: 1
+17:55:55 button,登出
+17:55:55 1,disconnect登出
+17:55:55 在线用户: 
+17:55:57 在线用户: 1
+17:56:0 [object Object]
+17:56:0 1,disconnect登出
+17:56:0 在线用户: 
+17:56:4 在线用户: 1
+17:56:8 [object Object]
+17:56:8 1,disconnect登出
+17:56:8 在线用户: 
+17:56:9 在线用户: 1
+17:56:14 [object Object]
+17:56:14 1,disconnect登出
+17:56:14 在线用户: 
+17:56:20 在线用户: 1
+17:58:51 1,disconnect登出
+17:58:52 在线用户: 
+18:1:16 [object Object]
+18:2:59 聊天室访问地址为 http://%s:%s,::,80
+18:3:51 聊天室访问地址为 http://%s:%s,::,80
+18:4:5 [object Object]
+18:6:50 聊天室访问地址为 http://%s:%s,::,80
+18:8:27 聊天室访问地址为 http://%s:%s,::,80
+18:9:0 聊天室访问地址为 http://%s:%s,::,80
+18:10:47 在线用户: 1
+18:10:55 18:10:55,1,fdsfsda
+18:11:1 18:11:01,1,fsda
+18:11:7 18:11:07,1,fasdfsd
+18:11:9 button,登出
+18:11:9 1,disconnect登出
+18:11:9 在线用户: 
+18:11:11 在线用户: 1
+18:11:16 button,登出
+18:11:16 1,disconnect登出
+18:11:16 在线用户: 
+18:11:52 聊天室访问地址为 http://%s:%s,::,80
+18:12:1 聊天室访问地址为 http://%s:%s,::,80
+18:12:2 [object Object]
+18:12:25 聊天室访问地址为 http://%s:%s,::,80
+18:12:26 [object Object]
+18:12:50 [object Object]
+18:12:52 [object Object]
+18:12:56 聊天室访问地址为 http://%s:%s,::,80
+18:12:57 [object Object]
+18:19:50 聊天室访问地址为 http://%s:%s,::,80
+18:19:50 /oauth,[object Object]
+18:20:49 /oauth,[object Object]
+19:37:41 /oauth,[object Object]
+19:48:8 聊天室访问地址为 http://%s:%s,::,80
+19:48:25 /login,[object Object]
+20:10:31 /login,[object Object]
+20:10:35 /login,[object Object]
+20:11:12 聊天室访问地址为 http://%s:%s,::,80
+20:11:12 /login,[object Object]
+20:11:17 /login,[object Object]
+20:11:24 /login,[object Object]
+20:11:49 聊天室访问地址为 http://%s:%s,::,80
+20:11:49 /login,[object Object]
+20:12:49 [object Object]
+20:12:56 [object Object]
+20:13:2 /login,[object Object]
+20:14:33 聊天室访问地址为 http://%s:%s,::,80
+20:14:40 /login,[object Object]
+20:14:57 /oauth,[object Object]
+20:19:13 /oauth,[object Object]
+20:19:28 /oauth,[object Object]
+20:19:32 /oauth,[object Object]
+20:20:34 聊天室访问地址为 http://%s:%s,::,80
+20:20:36 /oauth,[object Object]
+20:22:19 /oauth,[object Object]
+20:22:21 /oauth,[object Object]
+20:32:26 聊天室访问地址为 http://%s:%s,::,80
+20:51:48 /oauth,[object Object]
+20:52:26 聊天室访问地址为 http://%s:%s,::,80
+20:52:30 /oauth,[object Object]
+20:53:17 /oauth,[object Object]
+21:6:12 /login req.body,[object Object]
+21:7:36 /oauth,[object Object]
+21:8:45 /oauth,[object Object]
+21:8:48 /oauth,[object Object]
+21:8:56 聊天室访问地址为 http://%s:%s,::,80
+21:9:0 /oauth,[object Object]
+21:9:26 聊天室访问地址为 http://%s:%s,::,80
+21:9:35 /oauth,
+21:10:10 聊天室访问地址为 http://%s:%s,::,80
+21:10:12 /oauth,[object Object]
+21:11:57 聊天室访问地址为 http://%s:%s,::,80
+21:11:59 /oauth,d87d3a3d2d3025377367d7f120148e56817cdf6ac1e5134e45e79b351901e848
+21:12:2 /oauth,3cc23404f4ab3c02e6a716e54c14f959db2a8e3279c4f5e187c8e084007041f4
+21:50:33 聊天室访问地址为 http://%s:%s,::,80
+21:50:46 /oauth,9bd6323d204b0677f3ad6e61ac11c0806bd13c9284e8c2ede377cd7d89beca29
+21:50:46 原始数据 r 的 长度,391
+21:50:46 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 13:50:56 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+21:50:46 connection closed
+21:53:56 聊天室访问地址为 http://%s:%s,::,80
+21:54:53 聊天室访问地址为 http://%s:%s,::,80
+21:54:56 /oauth,10a6214981f920c1128467f5efda0a4c6d4a16526f71396a25080547359d6219
+21:54:56 connection closed
+21:55:11 /oauth,babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2
+21:55:11 connection closed
+21:57:13 聊天室访问地址为 http://%s:%s,::,80
+21:57:16 /oauth,babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2
+21:57:16 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+21:57:16 connection closed
+22:0:18 聊天室访问地址为 http://%s:%s,::,80
+22:0:23 /oauth,58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c
+22:0:23 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn/oauth/token
+Connection: close
+
+ grant_type=authorization_code&code=58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:0:23 connection closed
+22:1:49 聊天室访问地址为 http://%s:%s,::,80
+22:1:53 /oauth,58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c
+22:1:53 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:1:53 原始数据 r 的 长度,391
+22:1:53 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:02:03 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:1:53 connection closed
+22:2:36 /oauth,58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c
+22:2:36 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=58375d8a2cbbdeeca424c452bad1b5d09376fc2a55ed54b5b7bf4b446dffbc8c&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:2:36 原始数据 r 的 长度,391
+22:2:36 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:02:46 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:2:36 connection closed
+22:3:1 /oauth,fd9328026561ffece202eda6f3deeeec60380f1bf55be90523795db5c503a23f
+22:3:1 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=fd9328026561ffece202eda6f3deeeec60380f1bf55be90523795db5c503a23f&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:3:1 原始数据 r 的 长度,391
+22:3:1 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:03:11 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:3:1 connection closed
+22:4:40 聊天室访问地址为 http://%s:%s,::,80
+22:4:42 /oauth,babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2
+22:4:42 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:4:42 原始数据 r 的 长度,391
+22:4:42 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:04:51 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:4:42 connection closed
+22:5:11 聊天室访问地址为 http://%s:%s,::,80
+22:5:12 /oauth,babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2
+22:5:12 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:5:12 原始数据 r 的 长度,391
+22:5:12 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:05:22 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:5:12 connection closed
+22:5:34 /oauth,babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2
+22:5:34 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=babd76395dc5d2d41a2ffe9ba3d69c1dcb6d3c42b8f6ff81d1fb6a7cf90de2e2&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:5:34 原始数据 r 的 长度,391
+22:5:34 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:05:44 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:5:34 connection closed
+22:5:38 /oauth,2d5157b75964c3345204c9bd1f9aa1c7c81149213c48f4b21c9de02c8f538e3a
+22:5:38 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=2d5157b75964c3345204c9bd1f9aa1c7c81149213c48f4b21c9de02c8f538e3a&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:5:38 原始数据 r 的 长度,391
+22:5:38 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:05:48 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:5:38 connection closed
+22:5:43 聊天室访问地址为 http://%s:%s,::,80
+22:5:45 /oauth,91b0e56007ee5d3ce1818f8aa514cb456d2a19f19f24be0337a021e14a9fd356
+22:5:45 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ grant_type=authorization_code&code=91b0e56007ee5d3ce1818f8aa514cb456d2a19f19f24be0337a021e14a9fd356&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:5:45 原始数据 r 的 长度,391
+22:5:45 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:05:55 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:5:45 connection closed
+22:6:11 聊天室访问地址为 http://%s:%s,::,80
+22:6:11 /oauth,91b0e56007ee5d3ce1818f8aa514cb456d2a19f19f24be0337a021e14a9fd356
+22:6:11 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ body:grant_type=authorization_code&code=91b0e56007ee5d3ce1818f8aa514cb456d2a19f19f24be0337a021e14a9fd356&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:6:11 原始数据 r 的 长度,391
+22:6:11 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:06:21 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:6:11 connection closed
+22:6:15 /oauth,e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e
+22:6:15 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Connection: close
+
+ body:grant_type=authorization_code&code=e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:6:15 原始数据 r 的 长度,391
+22:6:15 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:06:24 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: close
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:6:15 connection closed
+22:10:3 聊天室访问地址为 http://%s:%s,::,80
+22:10:8 /oauth,e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e
+22:10:8 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+
+ grant_type=authorization_code&code=e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:10:8 原始数据 r 的 长度,721
+22:10:8 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:10:18 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:10:18 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:10:8 connection closed
+22:15:3 聊天室访问地址为 http://%s:%s,::,80
+22:15:7 /oauth,e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e
+22:15:7 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic /r/nb8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+
+ grant_type=authorization_code&code=e4be52834f26e95efd04b764a104d8ee2b4cca7bf8e0b059ee1827f3ef30ed8e&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:15:7 原始数据 r 的 长度,721
+22:15:7 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:15:17 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:15:17 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:15:7 connection closed
+22:16:6 聊天室访问地址为 http://%s:%s,::,80
+22:16:8 /oauth,247c6aed8e19ad40cd5e1dddfe31224e9d908181b2f32df246498ae92a35bcb1
+22:16:9 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic 
+ connection: close
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+
+ grant_type=authorization_code&code=247c6aed8e19ad40cd5e1dddfe31224e9d908181b2f32df246498ae92a35bcb1&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:16:9 原始数据 r 的 长度,721
+22:16:9 HTTP/1.1 301 Moved Permanently
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:16:18 GMT
+Content-Type: text/html
+Content-Length: 185
+Connection: keep-alive
+Location: https://zypc.xupt.edu.cn/oauth/token
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.10.3
+Date: Wed, 26 Jul 2017 14:16:18 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.10.3</center>
+</body>
+</html>
+
+22:16:9 connection closed
+22:21:9 聊天室访问地址为 http://%s:%s,::,80
+22:21:14 /oauth,c442fd726129dafcc90ddc3a04f35fb3ef2bfe3c0abc70b8ad6d2ed7d4b070c3
+22:21:14 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic 
+ connection: close
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+
+ grant_type=authorization_code&code=c442fd726129dafcc90ddc3a04f35fb3ef2bfe3c0abc70b8ad6d2ed7d4b070c3&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:21:14 connection closed
+22:31:34 聊天室访问地址为 http://%s:%s,::,80
+22:31:39 /oauth,2f950a009fff11287787b3d285c2b2d244b806ca395cc02b971ef954a3995cd9
+22:31:39 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic 
+ connection: close
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+
+ grant_type=authorization_code&code=2f950a009fff11287787b3d285c2b2d244b806ca395cc02b971ef954a3995cd9&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:31:39 原始数据 r 的 长度,861
+22:31:39 原始数据 r 的 长度,5
+22:31:39 原始数据 r 的 长度,325
+22:31:39 connection closed
+22:33:11 聊天室访问地址为 http://%s:%s,::,80
+22:33:13 /oauth,6159985ec7af9b3802d4f1f05d5ad792fa954e3baac6015f9ff7cf974c433f75
+22:33:13 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic 
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Transfer-Encoding: chunked
+
+Connection: keep-alive 
+ grant_type=authorization_code&code=6159985ec7af9b3802d4f1f05d5ad792fa954e3baac6015f9ff7cf974c433f75&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:33:13 原始数据 r 的 长度,861
+22:33:13 原始数据 r 的 长度,5
+22:33:13 原始数据 r 的 长度,325
+22:33:13 connection closed
+22:36:20 聊天室访问地址为 http://%s:%s,::,80
+22:36:27 /oauth,54e448e902b69ae25ac6f44b56eb4b1b76ebfa2c7bf75f401cc27a2919c7b2b4
+22:36:27 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Transfer-Encoding: chunked
+
+Connection: keep-alive 
+ grant_type=authorization_code&code=54e448e902b69ae25ac6f44b56eb4b1b76ebfa2c7bf75f401cc27a2919c7b2b4&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:36:28 原始数据 r 的 长度,861
+22:36:28 原始数据 r 的 长度,5
+22:36:28 原始数据 r 的 长度,325
+22:36:28 connection closed
+22:38:18 聊天室访问地址为 http://%s:%s,::,80
+22:38:21 /oauth,54e448e902b69ae25ac6f44b56eb4b1b76ebfa2c7bf75f401cc27a2919c7b2b4
+22:38:21 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Transfer-Encoding: chunked
+
+Connection: keep-alive 
+ grant_type=authorization_code&code=54e448e902b69ae25ac6f44b56eb4b1b76ebfa2c7bf75f401cc27a2919c7b2b4&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:38:21 原始数据 r 的 长度,861
+22:38:21 原始数据 r 的 长度,5
+22:38:21 原始数据 r 的 长度,325
+22:38:21 connection closed
+22:38:27 /oauth,9c32044d27429c8c1757b08485b7b40625910aaa8c18224d831cfddb4eabc3a8
+22:38:27 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb: 4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Transfer-Encoding: chunked
+
+Connection: keep-alive 
+ grant_type=authorization_code&code=9c32044d27429c8c1757b08485b7b40625910aaa8c18224d831cfddb4eabc3a8&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:38:27 原始数据 r 的 长度,861
+22:38:27 原始数据 r 的 长度,5
+22:38:27 原始数据 r 的 长度,325
+22:38:27 connection closed
+22:49:53 聊天室访问地址为 http://%s:%s,::,80
+22:50:2 /oauth,32f4d4257eac6e26f5f55b3c36f2861096ce7caa7b23f775620c1eba8b1996a9
+22:50:2 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb:4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+ grant_type=authorization_code&code=32f4d4257eac6e26f5f55b3c36f2861096ce7caa7b23f775620c1eba8b1996a9&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:50:2 原始数据 r 的 长度,693
+22:50:2 原始数据 r 的 长度,168
+22:50:2 原始数据 r 的 长度,5
+22:50:2 原始数据 r 的 长度,325
+22:50:2 connection closed
+22:53:37 聊天室访问地址为 http://%s:%s,::,80
+22:53:46 /oauth,86375aae06daa2671a87fab7efbaf3972d4b76c23a4bcfdbfc19a2191ccc8786
+POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb:4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=86375aae06daa2671a87fab7efbaf3972d4b76c23a4bcfdbfc19a2191ccc8786&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+22:53:46 原始数据 r 的 长度,861
+22:53:46 原始数据 r 的 长度,5
+22:53:46 原始数据 r 的 长度,325
+22:53:46 connection closed
+23:0:31 聊天室访问地址为 http://%s:%s,::,80
+23:0:38 /oauth,181b581f0738fc42fcdf72fb9e3072fdd09d1d31a2f49f6ad25e7be8ff495a10
+23:5:33 聊天室访问地址为 http://%s:%s,::,80
+23:5:51 聊天室访问地址为 http://%s:%s,::,80
+23:5:59 /oauth,834dce7c6d9be17ce544d95c5dbffb9f8143d02847a7f0c328c6b30ad2cff9d5
+23:23:42 聊天室访问地址为 http://%s:%s,::,80
+23:25:38 聊天室访问地址为 http://%s:%s,::,80
+23:25:43 /oauth,72ffc3889daf5fb2ca532eb2ae93a49a7821ea0c0b67c2bc35ed04078ce7ef6a
+23:25:43 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:25:43 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:26:10 聊天室访问地址为 http://%s:%s,::,80
+23:26:13 /oauth,b37beed2dda6add61851fc16ea2e77f84c516acb3b594cfa27b6fa89245e6425
+23:26:13 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:26:13 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:26:13 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:26:13 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:26:13 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=b37beed2dda6add61851fc16ea2e77f84c516acb3b594cfa27b6fa89245e6425&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:26:13 原始数据 r 的 长度,861
+23:26:13 原始数据 r 的 长度,5
+23:26:13 原始数据 r 的 长度,325
+23:26:13 connection closed
+23:27:2 聊天室访问地址为 http://%s:%s,::,80
+23:27:6 /oauth,14848e9745ffec1c5d347064ef78a726fb26fa989112d9eaf4a48b2b6d704307
+23:27:6 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:27:6 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:27:6 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:27:6 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:27:6 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authentication: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=14848e9745ffec1c5d347064ef78a726fb26fa989112d9eaf4a48b2b6d704307&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:27:6 原始数据 r 的 长度,861
+23:27:6 原始数据 r 的 长度,5
+23:27:6 原始数据 r 的 长度,325
+23:27:6 connection closed
+23:28:15 聊天室访问地址为 http://%s:%s,::,80
+23:28:17 /oauth,d2934aa126d31a2c2ad7b9149cce110b1704f3e74b2c17317707985a676a5f13
+23:28:17 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:28:17 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:28:17 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:28:17 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:28:17 GET /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=d2934aa126d31a2c2ad7b9149cce110b1704f3e74b2c17317707985a676a5f13&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:28:17 原始数据 r 的 长度,1896
+23:28:17 原始数据 r 的 长度,325
+23:28:17 connection closed
+23:28:55 /oauth,852bc5b71b6ca6b0e8b33b03bff466249aa58db6b8e33a6214da50b27ef7ac69
+23:28:55 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:28:55 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:28:55 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:28:55 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:28:55 GET /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=852bc5b71b6ca6b0e8b33b03bff466249aa58db6b8e33a6214da50b27ef7ac69&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:28:56 原始数据 r 的 长度,1896
+23:28:56 原始数据 r 的 长度,325
+23:28:56 connection closed
+23:29:2 聊天室访问地址为 http://%s:%s,::,80
+23:29:4 /oauth,d6521ab2b5cb87fb86f0bbef892f25a8232c6408e8940f1508c3813b6cd2540d
+23:29:4 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:29:4 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:29:4 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:29:4 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:29:4 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=d6521ab2b5cb87fb86f0bbef892f25a8232c6408e8940f1508c3813b6cd2540d&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:29:4 原始数据 r 的 长度,861
+23:29:4 原始数据 r 的 长度,5
+23:29:4 原始数据 r 的 长度,325
+23:29:4 connection closed
+23:29:18 /oauth,d6521ab2b5cb87fb86f0bbef892f25a8232c6408e8940f1508c3813b6cd2540d
+23:29:18 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:29:18 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:29:18 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:29:18 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:29:18 POST /oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=d6521ab2b5cb87fb86f0bbef892f25a8232c6408e8940f1508c3813b6cd2540d&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:29:18 原始数据 r 的 长度,861
+23:29:18 原始数据 r 的 长度,5
+23:29:18 原始数据 r 的 长度,325
+23:29:18 connection closed
+23:32:41 聊天室访问地址为 http://%s:%s,::,80
+23:32:58 /oauth,a8a77a9ffa231fb86f3f9ee4e2ac0daddd0c3d4c9d0a46737f9e275f205ec8b0
+23:32:58 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:32:58 13,6,8,55,24,22,9,33,13,22,9,35,13,6,4,49,13,35,24,55,25,35,28,51,25,38,17,34,13,51,32,53,14,19,5,36,24,38,24,49,14,3,4,54,12,51,16,57,12,38,24,51,24,19,12,53,13,19,12,56,12,35,13,38,13,51,5,36,14,22,12,48,12,6,20,52,24,38,24,53,24,51,37,34,12,16,0,0
+23:32:58 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:32:58 24,35,33,36,25,3,16,56,12,6,8,53,24,35,0,56,13,38,20,52,12,3,8,57,13,35,29,37,24,35,28,51,12,54,21,35,12,51,28,54,25,3,36,50,13,51,9,34,12,35,16,53,13,22,21,33,14,19,5,37,13,51,28,56,12,54,13,37,13,51,36,54,13,54,12,49,24,19,1,34,12,38,5,35,24,32,0,0
+23:32:58 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=a8a77a9ffa231fb86f3f9ee4e2ac0daddd0c3d4c9d0a46737f9e275f205ec8b0&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:32:59 原始数据 r 的 长度,861
+23:32:59 原始数据 r 的 长度,5
+23:32:59 原始数据 r 的 长度,325
+23:32:59 connection closed
+23:34:28 聊天室访问地址为 http://%s:%s,::,80
+23:34:30 /oauth,f334ddbb1053c9685b8014de1bdb5b688d2672f54d9e6acd56864bd0a8184255
+23:34:30 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:34:30 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=f334ddbb1053c9685b8014de1bdb5b688d2672f54d9e6acd56864bd0a8184255&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:34:30 原始数据 r 的 长度,861
+23:34:30 原始数据 r 的 长度,5
+23:34:30 原始数据 r 的 长度,325
+23:34:30 connection closed
+23:37:43 /oauth,ab6782ec6492512328a6cebbc1285e3dc1430f069f3d8dd9a372a36b1b5f7e6b
+23:37:43 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:37:43 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:37:43 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=ab6782ec6492512328a6cebbc1285e3dc1430f069f3d8dd9a372a36b1b5f7e6b&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:37:43 原始数据 r 的 长度,861
+23:37:43 原始数据 r 的 长度,5
+23:37:43 原始数据 r 的 长度,325
+23:37:43 connection closed
+23:40:5 /oauth,
+23:40:5 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+23:40:5 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+23:40:5 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAA
+
+Content-Type: application/x-www-form-urlencoded
+Connection: close 
+
+ grant_type=authorization_code&code=undefined&redirect_uri=http%3A%2F%2F127.0.0.1%2Foauth
+23:40:5 原始数据 r 的 长度,861
+23:40:5 原始数据 r 的 长度,5
+23:40:5 原始数据 r 的 长度,325
+23:40:5 connection closed
+10:45:54 聊天室访问地址为 http://%s:%s,::,80
+10:46:18 /oauth,3a59d98d53ec46af3784235d74a42d30a5cc29eac78d47995982578137f64352
+10:48:43 聊天室访问地址为 http://%s:%s,::,80
+10:49:4 /oauth,15ff6f952aaadbca9566c98e5bbf9f83a1cad58a34f254041e63b673f6d7ffc5
+10:54:57 聊天室访问地址为 http://%s:%s,::,80
+10:55:19 /oauth,70147b20b993347cc8543456ac1192bf0f9906fec8c60eea7e2d408fa2861d2d
+10:56:4 聊天室访问地址为 http://%s:%s,::,80
+10:56:5 /oauth,70147b20b993347cc8543456ac1192bf0f9906fec8c60eea7e2d408fa2861d2d
+10:58:51 聊天室访问地址为 http://%s:%s,::,80
+10:58:53 /oauth,fed1e33424f727266100e60930c45ec4b5cfa1de4f231214e9f9f56919f37ee4
+10:59:25 聊天室访问地址为 http://%s:%s,::,80
+10:59:25 /oauth,fed1e33424f727266100e60930c45ec4b5cfa1de4f231214e9f9f56919f37ee4
+11:6:25 聊天室访问地址为 http://%s:%s,::,80
+11:6:31 /oauth,66d34078a8d2de6cdcf650139f5ee0d3496a593a947f319f01ca5285921f811f
+11:7:27 /oauth,
+11:7:27 /oauth,
+11:7:32 聊天室访问地址为 http://%s:%s,::,80
+11:7:34 /oauth,
+11:12:42 聊天室访问地址为 http://%s:%s,::,80
+11:12:47 /oauth,
+11:13:14 /oauth,
+11:13:18 聊天室访问地址为 http://%s:%s,::,80
+11:13:19 /oauth,
+11:13:47 聊天室访问地址为 http://%s:%s,::,80
+11:13:48 /oauth,
+11:13:56 /oauth,8b9c8ebd652f5cc5a27870b9a941ccf10b5bf18d16803badbe651400130823b7
+11:14:31 /oauth,aece2dd5cdf4906e1990363df5e57241a87c500ce965f211f7640e34cd0ded65
+11:14:38 聊天室访问地址为 http://%s:%s,::,80
+11:14:42 /oauth,d324194ab0d13ae005d23a4d060c22d216835e80abfb44c8a9c4eadaf8bae8f4
+11:14:46 /oauth,54cc6b4db9479f81c0b44754113781fad0c677991840069fac3eb6cf6aad3ef4
+11:59:50 聊天室访问地址为 http://%s:%s,::,80
+11:59:59 /oauth,673fbc98d6f2b4dbf0086f8ee57b18655c1e840aebd9f7bb737ab48c4c9c5f19
+11:59:59 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+11:59:59 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+11:59:59 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+11:59:59 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:1:49 聊天室访问地址为 http://%s:%s,::,80
+12:1:53 /oauth,c2ae5344fcbc680587a4b64d6a1b58e1819ca5739e80acf64d1bcc36f02ec5eb
+12:1:53 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+12:1:53 01100010001110000110010001100100001101000011100000110000011000100011010101100010001100000011100000110110011001010011010000110000001100100011100100110110001101110110010101100010001101110011001100110011011001010110001100110011001101110011011001100100001110010011001000110111001100100110001000110010001101000011010100110101011001010110000100111001001100010110010100110111001101110011100000110011011000110110010100110111001110010011011000110111011000110011000101100001001100000110001000110010011000010110001101100010
+12:1:53 00110100011000100011011101100001011000100110000100110101011000100110001100110100011000010011000100110110001101100011011101100110001101110011001101100110011001000110001000110111001110000011010100111001001100010110010001100010011001100011000100111000001100010011011000110011001101000011100100110010011001100011001101100001001100110011010100110101001100110011100000110010001100110110011000110111001100010110010000111001011000110011000000110000011001010011010001100010011001100011010101100011001110010110001000110001
+12:1:53 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:2:29 聊天室访问地址为 http://%s:%s,::,80
+12:2:33 /oauth,765bd40c7ced91efee1ec85f55b6d0e9890120d400b89607b800c3deb8760bb3
+12:2:33 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+12:2:33 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:2:44 聊天室访问地址为 http://%s:%s,::,80
+12:2:45 /oauth,765bd40c7ced91efee1ec85f55b6d0e9890120d400b89607b800c3deb8760bb3
+12:2:45 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+12:2:45 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:2:51 /oauth,54f1d1e16e40c47359d372e6c761269025df4a6c9f67eeab054bbea1be703787
+12:2:51 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+12:2:51 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:3:43 聊天室访问地址为 http://%s:%s,::,80
+12:3:46 /oauth,bb137140d87373e509016371a34925b8181105c6c27d46cc655d37ee0110033a
+12:3:46 header,function header(name) {
+  if (!name) {
+    throw new TypeError('name argument is required to req.get');
+  }
+
+  if (typeof name !== 'string') {
+    throw new TypeError('name must be a string to req.get');
+  }
+
+  var lc = name.toLowerCase();
+
+  switch (lc) {
+    case 'referer':
+    case 'referrer':
+      return this.headers.referrer
+        || this.headers.referer;
+    default:
+      return this.headers[lc];
+  }
+}
+12:3:46 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:5:8 聊天室访问地址为 http://%s:%s,::,80
+12:5:12 /oauth,b065ff13493452759f69ab3606a1367ba57f089e312f25404e09e0cf1c57f9f9
+12:5:12 header,[object Object]
+12:5:12 状态码：,401
+12:5:12 请求头：,[object Object]
+12:5:12 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:5:52 /oauth,0e3c288a9a4b69cf0ea8d671ab6c820efbc78e370f59ba83f1eebfd1d83efeb3
+12:5:52 header,[object Object]
+12:5:53 状态码：,401
+12:5:53 请求头：,[object Object]
+12:5:53 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:9:9 聊天室访问地址为 http://%s:%s,::,80
+12:9:12 /oauth,881d5cb27395a6c80c85b66780b8cc273014eedc0327896421032855a1a6aa57
+12:9:12 header,[object Object]
+12:9:12 状态码：,401
+12:9:12 请求头：,[object Object]
+12:9:12 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:9:35 聊天室访问地址为 http://%s:%s,::,80
+12:9:37 /oauth,83c7d0ffff9e56ee50b070a1d62f364e1e12961cd5886b97d0564c44abde6d5b
+12:9:37 header,[object Object]
+12:9:37 状态码：,401
+12:9:37 请求头：,Content-Type,application/json; charset=utf-8,Transfer-Encoding,chunked,Connection,close,Status,401 Unauthorized,Cache-Control,no-store,X-Runtime,0.002136,X-Frame-Options,SAMEORIGIN,X-XSS-Protection,1; mode=block,X-Content-Type-Options,nosniff,Pragma,no-cache,WWW-Authenticate,Bearer realm="Doorkeeper", error="invalid_request", error_description="The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed.",X-Request-Id,ef595d89-db6f-43b5-ba8f-2c1a4bd2162d,Date,Thu, 27 Jul 2017 04:09:47 GMT,X-Powered-By,Phusion Passenger 5.1.3,Server,nginx/1.10.3 + Phusion Passenger 5.1.3
+12:9:37 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:10:55 聊天室访问地址为 http://%s:%s,::,80
+12:10:58 /oauth,b49ecd406f630fd2b643ce48d9f12554f236a5ee1beb5699c3b7e18555837a85
+12:10:58 header,Host,127.0.0.1,Connection,keep-alive,Cache-Control,max-age=0,Upgrade-Insecure-Requests,1,User-Agent,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,Accept,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,DNT,1,Accept-Encoding,gzip, deflate, br,Accept-Language,zh-CN,zh;q=0.8,Cookie,_ga=GA1.4.1217341448.1493021876; ; name=1; io=5Wl6HpbZ39X_3J0GAAAB
+12:10:58 状态码：,401
+12:10:58 请求头：,[object Object]
+12:10:59 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:11:41 聊天室访问地址为 http://%s:%s,::,80
+12:11:45 /oauth,cdf5c8a8e967f78360d363ee8273e81051aaf85fdd14c20447f53ec1028c172c
+12:11:45 header,Host,127.0.0.1,Connection,keep-alive,Cache-Control,max-age=0,Upgrade-Insecure-Requests,1,User-Agent,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36,Accept,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,DNT,1,Accept-Encoding,gzip, deflate, br,Accept-Language,zh-CN,zh;q=0.8,Cookie,_ga=GA1.4.1217341448.1493021876; ; name=1; io=5Wl6HpbZ39X_3J0GAAAB
+12:11:45 [object Object]
+12:11:45 状态码：,401
+12:11:45 请求头：,[object Object]
+12:11:45 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:12:17 聊天室访问地址为 http://%s:%s,::,80
+12:12:19 [object Object]
+12:12:19 状态码：,401
+12:12:19 请求头：,[object Object]
+12:12:19 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:12:37 [object Object]
+12:12:37 状态码：,401
+12:12:37 请求头：,[object Object]
+12:12:37 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:15:7 聊天室访问地址为 http://%s:%s,::,80
+12:15:10 [object Object]
+12:15:10 状态码：,401
+12:15:11 请求头：,[object Object]
+12:15:11 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:35:33 聊天室访问地址为 http://%s:%s,::,80
+12:38:8 [object Object]
+12:38:8 状态码：,401
+12:38:8 请求头：,[object Object]
+12:38:8 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:41:37 [object Object]
+12:41:37 状态码：,401
+12:41:37 请求头：,[object Object]
+12:41:37 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:5 聊天室访问地址为 http://%s:%s,::,80
+12:46:10 [object Object]
+12:46:10 状态码：,401
+12:46:10 请求头：,[object Object]
+12:46:10 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:14 [object Object]
+12:46:15 状态码：,401
+12:46:15 请求头：,[object Object]
+12:46:15 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:20 [object Object]
+12:46:20 状态码：,401
+12:46:20 请求头：,[object Object]
+12:46:20 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:24 [object Object]
+12:46:24 状态码：,401
+12:46:24 请求头：,[object Object]
+12:46:24 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:29 [object Object]
+12:46:29 状态码：,401
+12:46:29 请求头：,[object Object]
+12:46:29 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:34 [object Object]
+12:46:34 状态码：,401
+12:46:34 请求头：,[object Object]
+12:46:34 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:39 [object Object]
+12:46:39 状态码：,401
+12:46:39 请求头：,[object Object]
+12:46:39 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:49 聊天室访问地址为 http://%s:%s,::,80
+12:46:50 [object Object]
+12:46:50 状态码：,401
+12:46:50 请求头：,[object Object]
+12:46:50 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:46:53 [object Object]
+12:46:53 状态码：,401
+12:46:53 请求头：,[object Object]
+12:46:53 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:47:45 聊天室访问地址为 http://%s:%s,::,80
+12:47:48 [object Object]
+12:47:48 状态码：,401
+12:47:48 请求头：,[object Object]
+12:47:48 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:49:6 聊天室访问地址为 http://%s:%s,::,80
+12:49:11 [object Object]
+12:49:11 状态码：,401
+12:49:11 请求头：,[object Object]
+12:49:11 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:49:39 聊天室访问地址为 http://%s:%s,::,80
+12:49:42 [object Object]
+12:49:42 状态码：,401
+12:49:42 请求头：,[object Object]
+12:49:42 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:49:55 聊天室访问地址为 http://%s:%s,::,80
+12:49:56 [object Object]
+12:49:56 状态码：,401
+12:49:56 请求头：,[object Object]
+12:49:56 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:50:46 聊天室访问地址为 http://%s:%s,::,80
+12:50:52 [object Object]
+12:50:52 状态码：,401
+12:50:52 请求头：,[object Object]
+12:50:52 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:51:14 聊天室访问地址为 http://%s:%s,::,80
+12:51:15 [object Object]
+12:51:15 状态码：,401
+12:51:15 请求头：,[object Object]
+12:51:15 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:51:19 聊天室访问地址为 http://%s:%s,::,80
+12:51:21 [object Object]
+12:51:21 状态码：,401
+12:51:21 请求头：,[object Object]
+12:51:21 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:52:0 聊天室访问地址为 http://%s:%s,::,80
+12:52:2 [object Object]
+12:52:2 状态码：,401
+12:52:2 请求头：,[object Object]
+12:52:2 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:52:32 聊天室访问地址为 http://%s:%s,::,80
+12:52:34 [object Object]
+12:52:35 状态码：,401
+12:52:35 请求头：,[object Object]
+12:52:35 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+12:54:19 聊天室访问地址为 http://%s:%s,::,80
+12:54:25 [object Object]
+12:54:25 状态码：,401
+12:54:25 请求头：,[object Object]
+12:54:25 {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an unsupported parameter value, or is otherwise malformed."}
+13:3:1 聊天室访问地址为 http://%s:%s,::,80
+13:3:35 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=a48da37d59fa59eaf2582df2a4f4e8e12b48b11a7c3f905657696c5b9c4193ec&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:3:35 原始数据 r 的 长度,423
+13:3:35 connection closed
+13:4:38 聊天室访问地址为 http://%s:%s,::,80
+13:4:40 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=30f668d78cb725d770801db7a944db8c011953d42758429494fb66adf2581553&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:4:40 原始数据 r 的 长度,861
+13:4:40 原始数据 r 的 长度,5
+13:4:40 原始数据 r 的 长度,325
+13:4:40 connection closed
+13:6:7 聊天室访问地址为 http://%s:%s,::,80
+13:6:10 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=16de47ce52f5ed94326f7a1140f35f9d9f6978c8b4a9073cef930a132ad7054a&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:6:10 原始数据 r 的 长度,693
+13:6:10 原始数据 r 的 长度,168
+13:6:10 原始数据 r 的 长度,5
+13:6:10 原始数据 r 的 长度,325
+13:6:10 connection closed
+13:7:1 聊天室访问地址为 http://%s:%s,::,80
+13:7:4 a7abcf3277fd42d57d28827e6bc12a1ca0d05e1b7dbd39ac66da03797152863d
+13:7:4 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=a7abcf3277fd42d57d28827e6bc12a1ca0d05e1b7dbd39ac66da03797152863d&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:7:4 原始数据 r 的 长度,861
+13:7:4 原始数据 r 的 长度,5
+13:7:4 原始数据 r 的 长度,325
+13:7:4 connection closed
+13:14:38 ab2f1d828848ab03d8ee3d7e10172f6b4563bb0e99cf4eeb8c7008f6f4b54956
+13:14:38 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=ab2f1d828848ab03d8ee3d7e10172f6b4563bb0e99cf4eeb8c7008f6f4b54956&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:14:38 原始数据 r 的 长度,861
+13:14:38 原始数据 r 的 长度,5
+13:14:38 原始数据 r 的 长度,325
+13:14:39 connection closed
+13:59:50 [object Object]
+13:59:57 5eb8e0caeaf575393ff5a262cc265137586c562e9e31acae57afb1c63a193602
+13:59:57 POST https://zypc.xupt.edu.cn/oauth/token HTTP/1.1
+Host: zypc.xupt.edu.cn
+Authorization: Basic YjhkZDQ4MGI1YjA4NmU0MDI5NjdlYjczM2VjMzc2ZDkyNzJiMjQ1NWVhOTFlNzc4M2NlNzk2N2MxYTBiMmFjYgAA:NGI3YWJhNWJjNGExNjY3ZjczZmRiNzg1OTFkYmYxODE2MzQ5MmYzYTM1NTM4MjNmNzFkOWMwMGU0YmY1YzliMQAAconnection: close
+Connect Timeout: 10
+
+
+ grant_type=authorization_code&code=5eb8e0caeaf575393ff5a262cc265137586c562e9e31acae57afb1c63a193602&redirect_uri=http%3A%2F%2F127.0.0.1/oauth
+13:59:57 原始数据 r 的 长度,693
+13:59:57 原始数据 r 的 长度,168
+13:59:57 原始数据 r 的 长度,5
+13:59:57 原始数据 r 的 长度,325
+13:59:57 connection closed
+14:3:12 聊天室访问地址为 http://%s:%s,::,80
+14:4:48 聊天室访问地址为 http://%s:%s,::,80
+14:5:22 [object Object]
+14:5:33 [object Object]
+14:21:52 聊天室访问地址为 http://%s:%s,::,80
+14:22:55 聊天室访问地址为 http://%s:%s,::,80
+14:23:13 聊天室访问地址为 http://%s:%s,::,80
+14:23:34 4a899dc045d50076c4e2313c03004090e6838606b01a33ef0d9f0a18de059f8e
+14:23:34 
+14:24:43 聊天室访问地址为 http://%s:%s,::,80
+14:24:54 014e5d4d8bc07a250acf8658723b8a3fcd747cee7d64e55f924ff98125c2c510
+14:24:54 Permitting access from ::ffff:127.0.0.1
+14:24:54 
+14:25:35 聊天室访问地址为 http://%s:%s,::,80
+14:25:41 1cbdb90c6a8cddadfaf343107ae401acc7bdbec0d7c8e446511b9be0b42d896d
+14:25:41 Permitting access from ::ffff:127.0.0.1
+14:25:41 
+14:25:41 [object Object]
+14:29:47 聊天室访问地址为 http://%s:%s,::,80
+14:29:56 8214671afbdb49418d8f45545fc84606500370e2e0833ffb4cb78fc826a41ca2
+14:29:56 Permitting access from ::ffff:127.0.0.1
+14:29:56 
+14:29:56 [object Object]
+14:34:46 聊天室访问地址为 http://%s:%s,::,80
+14:34:59 75956ca430ba8efcd50e7421df08117730d294e7cec65ce4f7e034b235f9f8c6
+14:34:59 Permitting access from ::ffff:127.0.0.1
+14:34:59 
+14:34:59 [object Object]
+14:36:41 75956ca430ba8efcd50e7421df08117730d294e7cec65ce4f7e034b235f9f8c6
+14:36:41 Permitting access from ::ffff:127.0.0.1
+14:36:41 
+14:36:41 [object Object]
+14:36:44 聊天室访问地址为 http://%s:%s,::,80
+14:36:51 9b54eb9c2eeb8244856e01559356f616a7e8ffec440591975e64c5bf749142f2
+14:36:51 Permitting access from ::ffff:127.0.0.1
+14:36:51 
+14:36:51 [object Object]
+14:37:41 聊天室访问地址为 http://%s:%s,::,80
+14:39:5 聊天室访问地址为 http://%s:%s,::,80
+14:40:48 聊天室访问地址为 http://%s:%s,::,80
+14:41:9 聊天室访问地址为 http://%s:%s,::,80
+14:45:1 聊天室访问地址为 http://%s:%s,::,80
+14:45:19 7f9a21dcebc1fd1ed5ed2b918426129f998774a345399335666f303e322356cc
+14:45:19 Permitting access from ::ffff:127.0.0.1
+14:45:20 
+14:45:20 [object Object]
+14:47:11 聊天室访问地址为 http://%s:%s,::,80
+14:47:12 7f9a21dcebc1fd1ed5ed2b918426129f998774a345399335666f303e322356cc
+14:47:12 Permitting access from ::ffff:127.0.0.1
+14:47:12 f392c2864751f8f28041f4a657ccfe513207c4bd3c122c020e991a99ffd877d2
+14:47:12 
+14:47:15 cbbc81b63ab2089776d585cdf82ed6b00eacc67063320df75e910cc35a4cf0d7
+14:47:15 Permitting access from ::ffff:127.0.0.1
+14:47:15 820f6fb25361adbe624eb12b9a00fbd7f2f0acbafadc2638420cd18e998a40f2
+14:47:15 
+14:48:34 聊天室访问地址为 http://%s:%s,::,80
+14:48:49 04aa4fc231753ca47a2a9cc019d656c7c319c8083145ac427b7622e0b8d0ad09
+14:48:49 Permitting access from ::ffff:127.0.0.1
+14:48:49 9709e84179f181aa11c11a09b0b08b9d6260a4492116364b0f01f2ee5661635e
+14:48:49 
+14:52:28 聊天室访问地址为 http://%s:%s,::,80
+14:52:33 3048853c0e10eaa0ac82fdc6ac8bf407429133fff33195301b0ad0fde8dd130f
+14:52:33 Permitting access from ::ffff:127.0.0.1
+14:52:33 3d6dfd4cc1e80640f068955bec2613250849c82b0ea10f3b223e87c470b32d9a
+14:52:33 
+14:52:34 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+14:53:48 b94470ec0e7a661e638289e6e2528049f00e87d9ea7ed02bb4598ecb636c4e86
+14:53:48 Permitting access from ::ffff:127.0.0.1
+14:53:48 6cbbdada36ebe0128677e299b347ad288df792d4adf774ef7ed610fb8b0e62a6
+14:53:48 
+14:53:48 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+14:55:12 18dacf0b150ae95df3e47cab0e90c11a403d18984981bd7c8c9c505886b43050
+14:55:13 Permitting access from ::ffff:127.0.0.1
+14:55:13 c38933914523db4da6a6096b4d48ba8967a4cf672ad2e53b76f827436942986e
+14:55:13 
+14:55:13 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+14:55:20 7cb358773d2eaba66bef77700cb38060a762bcdec74bb103c24c842ee75b688f
+14:55:20 Permitting access from ::ffff:127.0.0.1
+14:55:20 e17efe68243c108b9e38af4e07d8b38a9c2750a6009ef6fbd654137de97d5e0f
+14:55:20 
+14:55:20 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+14:57:25 3157a7e35308dc21a8e5592dfc7fa2757a2c0e52ccb073db228143ace0007e9b
+14:57:25 Permitting access from ::ffff:127.0.0.1
+14:57:25 2f018600b7fd470667f01a39cb5f5e3af4f95631dd5bb561500ede6db922431a
+14:57:25 
+14:57:25 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+15:5:30 聊天室访问地址为 http://%s:%s,::,80
+15:5:34 聊天室访问地址为 http://%s:%s,::,80
+16:4:40 d065defad9e687f8e97005de9bd45c3e52f08891f39531d974c8afd9fac85c69
+16:4:40 Permitting access from ::ffff:127.0.0.1
+16:4:40 78a7ea6c9ff91222ab2e3efbeb754c57e1f89482f4467248dcccf38f648246c2
+16:4:40 
+16:4:40 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+16:4:55 d065defad9e687f8e97005de9bd45c3e52f08891f39531d974c8afd9fac85c69
+16:4:55 Permitting access from ::ffff:127.0.0.1
+16:4:55 
+16:4:55 [object Object]
+16:4:55 
+16:4:56 d065defad9e687f8e97005de9bd45c3e52f08891f39531d974c8afd9fac85c69
+16:4:56 Permitting access from ::ffff:127.0.0.1
+16:4:56 
+16:4:57 [object Object]
+16:4:57 
+16:7:6 cbac56be5ababb2c61788db61e18f9b533cb615d7dca5f5ec3409c893bf1068f
+16:7:6 Permitting access from ::ffff:127.0.0.1
+16:7:6 e531b395c7198068f5b5f86c4dcc61a0ae4a1fee7b104d0781e47f30b6d5626a
+16:7:6 
+16:7:6 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:0:29 7cb078393f0c0b408e1cb62ee6125c2fbf7e9d010b4155fd80b1786055b43025
+8:0:30 Permitting access from ::ffff:127.0.0.1
+8:0:30 db38276dea1af53a10de9e5c311040d3a6d93e91c35f681457a90a8ded5f3894
+8:0:30 
+8:0:30 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:1:11 7cb
+8:1:11 Permitting access from ::ffff:127.0.0.1
+8:1:12 
+8:1:12 [object Object]
+8:1:12 
+8:1:16 7cb
+8:1:16 Permitting access from ::ffff:127.0.0.1
+8:1:16 
+8:1:16 [object Object]
+8:1:16 
+8:6:58 28a9234ac77d25309cc79889f0397d91127a5af1366e8a12053baed6985a7e6c
+8:6:58 Permitting access from ::ffff:127.0.0.1
+8:6:58 e3e5c1d05b198474b78f7f2723e2655efc29f8581cc6c61c16b9860976c3acb5
+8:6:58 
+8:6:58 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:7:45 28a9234ac77d25309cc79889f0397d91127a5af1366e8a12053baed6985a7e66
+8:7:45 Permitting access from ::ffff:127.0.0.1
+8:7:45 
+8:7:45 [object Object]
+8:7:45 
+8:7:48 28a9234ac77d25309cc79889f0397d91127a5af1366e8a12053baed6985a7e66
+8:7:48 Permitting access from ::ffff:127.0.0.1
+8:7:48 
+8:7:48 [object Object]
+8:7:48 
+8:10:22 28a9234ac77d25309cc79889f0397d91127a5af1366e8a12053baed6985a7e66
+8:10:22 Permitting access from ::ffff:127.0.0.1
+8:10:22 
+8:10:22 [object Object]
+8:10:22 
+8:10:28 38a08c7fdcdca0c99ac0cb88c1a7da4ee9ed0f48da3f6713e3f0ef1f1fa0d4d4
+8:10:28 Permitting access from ::ffff:127.0.0.1
+8:10:28 83441075bda1d85b75c741b94385f32c77d9e9695da965cd2fd75db2d4087010
+8:10:28 
+8:10:28 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:12:8 聊天室访问地址为 http://%s:%s,::,80
+8:12:9 38a08c7fdcdca0c99ac0cb88c1a7da4ee9ed0f48da3f6713e3f0ef1f1fa0d4d4
+8:12:9 Permitting access from ::ffff:127.0.0.1
+8:12:9 
+8:12:43 聊天室访问地址为 http://%s:%s,::,80
+8:14:1 聊天室访问地址为 http://%s:%s,::,80
+8:14:5 1d5c184721fdbe443b4ba7835c8b0a0a0962391eaab2156267b542221966536a
+8:14:5 Permitting access from ::ffff:127.0.0.1
+8:14:5 8c9ceb64ef46b90d1658e7845825a101a12246ab0a6fe1e7f585bf6e00926adc
+8:14:36 聊天室访问地址为 http://%s:%s,::,80
+8:14:41 0429e992da714c86fd17859b702c0fa356d65c8dbdc4c8b8df36e4124daf2692
+8:14:41 Permitting access from ::ffff:127.0.0.1
+8:14:41 4a0c169cbbf3de7fd2c29fcce7defb45f6e45d1528537a2c50e49f44edd9ee6a
+8:14:41 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:15:17 聊天室访问地址为 http://%s:%s,::,80
+8:15:17 0429e992da714c86fd17859b702c0fa356d65c8dbdc4c8b8df36e4124daf2692
+8:15:17 Permitting access from ::ffff:127.0.0.1
+8:15:17 
+8:15:21 聊天室访问地址为 http://%s:%s,::,80
+8:15:25 0429e992da714c86fd17859b702c0fa356d65c8dbdc4c8b8df36e4124daf2692
+8:15:25 Permitting access from ::ffff:127.0.0.1
+8:15:25 
+8:16:56 聊天室访问地址为 http://%s:%s,::,80
+8:16:59 1d5c184721fdbe443b4ba7835c8b0a0a0962391eaab2156267b542221966536a
+8:16:59 Permitting access from ::ffff:127.0.0.1
+8:16:59 
+8:18:2 聊天室访问地址为 http://%s:%s,::,80
+8:18:6 069d8359d088fdae0e97956a43de244075afc613f73b43cee28c37c5e1f5f62d
+8:18:6 Permitting access from ::ffff:127.0.0.1
+8:18:6 a65562bb7f4b7e8d159f3e11760de9df428cd087756be3749dc9d213147722d3
+8:18:6 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:18:11 069d8359d088fdae0e97956a43de244075afc613f73b43cee28c37c5e1f5f62d
+8:18:11 Permitting access from ::ffff:127.0.0.1
+8:18:11 
+8:27:49 聊天室访问地址为 http://%s:%s,::,80
+8:28:1 4af0233625b7c2ba83ecbbc6b0e20b7be6f2a27c1f8c2686639bd1a951d4fd45
+8:28:1 Permitting access from ::ffff:127.0.0.1
+8:28:1 8a244fd5772ff51382aea83b4349b297004c0ac04f28b055430e8700ad505bc0
+8:28:1 [object Object]
+8:28:1 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:28:5 4af0233625b7c2ba83ecbbc6b0e20b7be6f2a27c1f8c2686639bd1a951fdsff
+8:28:6 Permitting access from ::ffff:127.0.0.1
+8:28:6 
+8:28:6 [object Object]
+8:28:6 [object Object]
+8:29:34 聊天室访问地址为 http://%s:%s,::,80
+8:29:37 4af0233625b7c2ba83ecbbc6b0e20b7be6f2a27c1f8c2686639bd1a951fdsff
+8:29:37 Permitting access from ::ffff:127.0.0.1
+8:29:37 
+8:29:45 b356cc1948761fa8d0eed9df0e25b8ab108e1d0a2ef5e3c26b948983282715ae
+8:29:45 Permitting access from ::ffff:127.0.0.1
+8:29:45 de0db85dfbe0a573198b030dc91efe825352507078f9cac704cb7711b055b50a
+8:29:45 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:30:4 d6ca7439104ae5a0e45a5d44b0c1c53be8314efb8ccc6bb04a36d2eb6ceee1c7
+8:30:4 Permitting access from ::ffff:127.0.0.1
+8:30:4 846757cb0e90a0a16a1f058eee9f9a8a62e7302f131d8a0060497a6be1c1f886
+8:30:4 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:30:17 fab8058ec64ac2af423aad07359938437d680d0d535bf53e60d37acde33fd2f3
+8:30:17 Permitting access from ::ffff:127.0.0.1
+8:30:17 8280938d393d9ddc5a29e0015d740ba4571d59a2285bdd918815ca41e400b039
+8:30:17 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:30:20 8a6593e46454a26344ad126fc0b17fb980a5067f5fcfec22d7bf6861e06a188c
+8:30:20 Permitting access from ::ffff:127.0.0.1
+8:30:20 60f738d6236475bf154a35cc0ffcd28d58ab0507e2d9b38f8df5a120edff1f0c
+8:30:21 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:30:22 聊天室访问地址为 http://%s:%s,::,80
+8:30:22 8a6593e46454a26344ad126fc0b17fb980a5067f5fcfec22d7bf6861e06a188c
+8:30:22 Permitting access from ::ffff:127.0.0.1
+8:30:22 
+8:30:31 聊天室访问地址为 http://%s:%s,::,80
+8:30:33 8a6593e46454a26344ad126fc0b17fb980a5067f5fcfec22d7bf6861e06a188c
+8:30:33 Permitting access from ::ffff:127.0.0.1
+8:30:33 
+8:31:18 聊天室访问地址为 http://%s:%s,::,80
+8:31:20 8a6593e46454a26344ad126fc0b17fb980a5067f5fcfec22d7bf6861e06a188c
+8:31:20 Permitting access from ::ffff:127.0.0.1
+8:31:20 
+8:31:23 8a6593e46454a26344ad126fc0b17fb980a5067f5fcfec22d7bf6861e06a188c
+8:31:23 Permitting access from ::ffff:127.0.0.1
+8:31:23 
+8:31:28 fd15a0748a386aa753dec8fb6f4e4d1ec3be3edac0121d96cb2cef2f5da6e928
+8:31:28 Permitting access from ::ffff:127.0.0.1
+8:31:28 80a83ded5f86f457667745f15c944df22d031454c9888400aaa1552d5f94dacd
+8:31:28 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:32:4 fd15a0748a386aa753dec8fb6f4ed1ec3be3edac0121d96cb2cef2f5da6e928
+8:32:4 Permitting access from ::ffff:127.0.0.1
+8:32:4 
+8:32:9 fd15a0748a386aa753dec8fb6f4ed1ec3be3edac0121d96cb2cef2f5da6e9286
+8:32:9 Permitting access from ::ffff:127.0.0.1
+8:32:9 
+8:32:15 null
+8:32:15 Permitting access from ::ffff:127.0.0.1
+8:32:15 
+8:41:48 聊天室访问地址为 http://%s:%s,::,80
+8:57:36 聊天室访问地址为 http://%s:%s,::,80
+8:57:39 388716604898936590b4be44fd398b3a2aca48d8c92a590f8616c692332dccd8
+8:57:39 Permitting access from ::ffff:127.0.0.1
+8:57:39 
+8:58:22 聊天室访问地址为 http://%s:%s,::,80
+8:58:24 388716604898936590b4be44fd398b3a2aca48d8c92a590f8616c692332dccd8
+8:58:24 Permitting access from ::ffff:127.0.0.1
+8:58:24 
+8:58:28 8c2ade391d4b679532ce7f247ab38b8c00d7d38dab97c4a3bb9885d71c786a6c
+8:58:28 Permitting access from ::ffff:127.0.0.1
+8:58:28 b248f2f12c453b9bdac3713e319094107c4b8ca671855c9c01f577ad3051e645
+8:58:28 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+8:58:52 聊天室访问地址为 http://%s:%s,::,80
+9:10:33 聊天室访问地址为 http://%s:%s,::,80
+9:10:34 聊天室访问地址为 http://%s:%s,::,80
+9:10:43 3b16a1f5faa3ff96ed679a811216d9476a044752d370ad08f6cdf591cc1d1992
+9:10:43 Permitting access from ::ffff:127.0.0.1
+9:10:43 a19377f28ea9fbeef378c6087a51198114447517d5c28c0cda6db46a8ff2d34e
+9:10:43 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+9:12:39 聊天室访问地址为 http://%s:%s,::,80
+9:13:36 4edd80c4395ffe96acbc90cb85c3114ccabf788aed494a75e964125072757c11
+9:13:36 Permitting access from ::ffff:127.0.0.1
+9:13:36 ffc382eb416c9905ed46da21b49dfcffe897d862e5da369e430a21f566eb862b
+9:13:36 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+9:19:37 4edd80c4395ffe96acbc90cb85c3114ccabf788aed494a75e964125072757c11
+9:19:37 Permitting access from ::ffff:127.0.0.1
+9:19:37 
+9:22:6 e3b33fcc299e4383b0ede7b87b385cce3bcdd6da87312cec95c963000d209732
+9:22:6 Permitting access from ::ffff:127.0.0.1
+9:22:6 d7631babedcb5a564ae82fc4a071e583e75a0a9f8a421ee51f52ae0ee2dbdf09
+9:22:6 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+13:53:25 e695946b5229f9cd18359928331ef5111c61d465a948370012ceb2bee4e045d9
+13:53:25 Permitting access from ::ffff:127.0.0.1
+13:53:25 218abd64d47fa9a86ba597cce529078ab6f4d30db189185b8fd8bd6de2a21642
+13:53:25 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+13:53:29 在线用户: 1
+13:53:30 button,登出
+13:53:30 1,disconnect登出
+13:53:30 在线用户: 
+15:43:4 e695946b5229f9cd18359928331ef5111c61d465a948370012ceb2bee4e045d9
+15:43:4 Permitting access from ::ffff:127.0.0.1
+15:43:4 
+15:51:36 e695946b5229f9cd18359928331ef5111c61d465a948370012ceb2bee4e045d9
+15:51:36 Permitting access from ::ffff:127.0.0.1
+15:51:36 
+11:33:17 聊天室访问地址为 http://%s:%s,::,80
+11:33:33 Permitting access from ::ffff:127.0.0.1
+11:33:54 聊天室访问地址为 http://%s:%s,::,80
+11:34:2 Permitting access from ::ffff:127.0.0.1
+11:34:2 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+11:34:30 聊天室访问地址为 http://%s:%s,::,80
+11:34:35 Permitting access from ::ffff:127.0.0.1
+11:34:41 Permitting access from ::ffff:127.0.0.1
+11:34:41 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+11:35:0 聊天室访问地址为 http://%s:%s,::,80
+11:35:6 Permitting access from ::ffff:127.0.0.1
+11:35:10 Permitting access from ::ffff:127.0.0.1
+11:35:10 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+11:37:25 聊天室访问地址为 http://%s:%s,::,80
+11:37:36 Permitting access from ::ffff:127.0.0.1
+11:37:36 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+11:38:37 聊天室访问地址为 http://%s:%s,::,80
+11:38:43 Permitting access from ::ffff:127.0.0.1
+11:38:43 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"}
+11:39:6 聊天室访问地址为 http://%s:%s,::,80
+11:39:12 Permitting access from ::ffff:127.0.0.1
+11:39:12 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"},,
+11:39:34 聊天室访问地址为 http://%s:%s,::,80
+11:39:40 Permitting access from ::ffff:127.0.0.1
+11:39:46 Permitting access from ::ffff:127.0.0.1
+11:39:46 {"username":"youngchou","sex":1,"group":"member","student_no":"05159100"},,,string
+11:40:12 聊天室访问地址为 http://%s:%s,::,80
+11:40:18 Permitting access from ::ffff:127.0.0.1
+11:40:18 [object Object],youngchou,05159100,object
+11:40:55 聊天室访问地址为 http://%s:%s,::,80
+11:41:11 聊天室访问地址为 http://%s:%s,::,80
+11:41:16 Permitting access from ::ffff:127.0.0.1
+11:41:16 [object Object]
+11:43:48 Permitting access from ::ffff:127.0.0.1
+11:43:48 [object Object]
+11:53:55 聊天室访问地址为 http://%s:%s,::,80
+11:54:2 Permitting access from ::ffff:127.0.0.1
+11:54:2 [object Object]
+11:54:12 Permitting access from ::ffff:127.0.0.1
+11:54:22 Permitting access from ::ffff:127.0.0.1
+11:54:22 [object Object]
+11:54:51 聊天室访问地址为 http://%s:%s,::,80
+11:55:7 聊天室访问地址为 http://%s:%s,::,80
+12:6:12 聊天室访问地址为 http://%s:%s,::,80
+12:9:44 在线用户: youngchou
+12:9:55 12:09:55,youngchou,发士大夫
+12:10:33 youngchou,disconnect登出
+12:10:33 在线用户: 
+12:10:45 在线用户: youngchou
+12:10:50 12:10:50,youngchou,fffa
+12:10:52 12:10:52,youngchou,fsdf
+12:10:53 12:10:53,youngchou,fsad
+12:10:54 12:10:54,youngchou,fsd
+12:10:55 12:10:55,youngchou,dsfa
+12:10:56 12:10:56,youngchou,a
+13:19:13 youngchou,disconnect登出
+13:19:13 在线用户: 
+13:19:27 在线用户: youngchou
+13:19:36 13:19:36,youngchou,fsdaf
+13:20:58 youngchou,disconnect登出
+13:20:58 在线用户: 
+13:22:28 在线用户: youngchou
+13:22:50 用户名非法
+13:23:29 13:23:29,youngchou,扽撒旦
+13:25:53 聊天室访问地址为 http://%s:%s,::,80
+13:25:53 在线用户: youngchou
+13:25:58 youngchou,disconnect登出
+13:25:58 在线用户: 
+13:26:16 在线用户: youngchou
+13:26:31 youngchou,disconnect登出
+13:26:31 在线用户: 
+13:26:48 在线用户: youngchou
+13:26:50 13:26:50,youngchou,fsad
+13:27:14 匿名,登出
+13:27:14 youngchou,disconnect登出
+13:27:14 在线用户: 
+13:27:55 在线用户: youngchou
+13:28:23 聊天室访问地址为 http://%s:%s,::,80
+13:28:23 在线用户: youngchou
+13:28:27 youngchou,disconnect登出
+13:28:27 在线用户: 
+13:28:28 在线用户: youngchou
+13:29:7 聊天室访问地址为 http://%s:%s,::,80
+13:29:7 在线用户: youngchou
+13:29:10 youngchou,disconnect登出
+13:29:10 在线用户: 
+13:29:12 在线用户: youngchou
+13:31:43 聊天室访问地址为 http://%s:%s,::,80
+13:31:44 在线用户: youngchou
+13:31:47 youngchou,disconnect登出
+13:31:47 在线用户: 
+13:31:51 在线用户: youngchou
+13:32:11 youngchou,disconnect登出
+13:32:11 在线用户: 
+13:32:13 在线用户: youngchou
+13:32:16 youngchou,disconnect登出
+13:32:16 在线用户: 
+13:32:18 在线用户: youngchou
+13:32:27 youngchou,disconnect登出
+13:32:27 在线用户: 
+13:32:29 在线用户: youngchou
+13:43:10 聊天室访问地址为 http://%s:%s,::,80
+13:43:11 在线用户: youngchou
+13:43:19 聊天室访问地址为 http://%s:%s,::,80
+13:43:19 在线用户: youngchou
+13:43:21 youngchou,disconnect登出
+13:43:21 在线用户: 
+13:43:22 在线用户: youngchou
+13:43:27 聊天室访问地址为 http://%s:%s,::,80
+13:44:8 在线用户: youngchou
+13:44:15 聊天室访问地址为 http://%s:%s,::,80
+13:45:36 在线用户: youngchou
+13:45:51 聊天室访问地址为 http://%s:%s,::,80
+13:45:53 在线用户: youngchou
+13:46:5 聊天室访问地址为 http://%s:%s,::,80
+13:46:9 在线用户: youngchou
+13:46:12 匿名,登出
+13:46:12 youngchou,disconnect登出
+13:46:12 在线用户: 
+13:46:29 聊天室访问地址为 http://%s:%s,::,80
+13:46:32 在线用户: youngchou
+13:46:51 youngchou,disconnect登出
+13:46:52 在线用户: 
+13:46:53 在线用户: youngchou
+13:47:0 聊天室访问地址为 http://%s:%s,::,80
+13:51:41 在线用户: youngchou
+13:51:44 聊天室访问地址为 http://%s:%s,::,80
+13:51:44 在线用户: youngchou
+14:0:45 youngchou,disconnect登出
+14:0:45 在线用户: 
+14:0:47 在线用户: youngchou
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:47 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:48 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:49 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:50 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:51 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:52 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:53 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:54 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:55 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:56 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:57 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:58 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:0:59 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:0 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:1 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:2 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:3 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:4 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:5 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:6 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:7 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:8 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:9 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:10 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:11 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:12 用户名非法
+14:1:13 用户名非法
+14:1:13 用户名非法
+14:1:13 用户名非法
+14:1:13 用户名非法
+14:1:13 用户名非法
+14:1:13 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:14 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:15 用户名非法
+14:1:16 用户名非法
+14:1:16 用户名非法
+14:1:16 用户名非法
+14:1:16 用户名非法
+14:1:16 用户名非法
+14:1:16 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:17 用户名非法
+14:1:18 用户名非法
+14:1:18 用户名非法
+14:1:18 用户名非法
+14:1:18 用户名非法
+14:1:18 用户名非法
+14:1:18 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:19 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:20 用户名非法
+14:1:21 用户名非法
+14:1:21 用户名非法
+14:1:21 用户名非法
+14:1:21 用户名非法
+14:1:21 用户名非法
+14:1:21 用户名非法
+14:1:22 用户名非法
+14:1:22 用户名非法
+14:1:22 用户名非法
+14:1:22 用户名非法
+14:1:22 用户名非法
+14:1:22 用户名非法
+14:1:23 用户名非法
+14:1:23 用户名非法
+14:1:23 用户名非法
+14:1:23 用户名非法
+14:1:23 用户名非法
+14:1:23 用户名非法
+14:1:24 用户名非法
+14:1:24 用户名非法
+14:1:24 用户名非法
+14:1:24 用户名非法
+14:1:24 用户名非法
+14:1:24 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:25 用户名非法
+14:1:26 用户名非法
+14:1:26 用户名非法
+14:1:26 用户名非法
+14:1:26 用户名非法
+14:1:26 用户名非法
+14:1:26 用户名非法
+14:1:27 用户名非法
+14:1:27 用户名非法
+14:1:27 用户名非法
+14:1:27 用户名非法
+14:1:27 用户名非法
+14:1:27 用户名非法
+14:1:28 用户名非法
+14:1:28 用户名非法
+14:1:28 用户名非法
+14:1:28 用户名非法
+14:1:28 用户名非法
+14:1:28 用户名非法
+14:1:29 用户名非法
+14:1:29 用户名非法
+14:1:29 用户名非法
+14:1:29 用户名非法
+14:1:29 用户名非法
+14:1:29 用户名非法
+14:1:30 用户名非法
+14:1:30 用户名非法
+14:1:30 用户名非法
+14:1:30 用户名非法
+14:1:30 用户名非法
+14:1:31 用户名非法
+14:1:31 用户名非法
+14:1:31 用户名非法
+14:1:31 用户名非法
+14:1:31 用户名非法
+14:1:31 用户名非法
+14:1:32 用户名非法
+14:1:32 用户名非法
+14:1:32 用户名非法
+14:1:32 用户名非法
+14:1:32 用户名非法
+14:1:32 用户名非法
+14:1:33 用户名非法
+14:1:33 用户名非法
+14:1:33 用户名非法
+14:1:33 用户名非法
+14:1:33 用户名非法
+14:1:34 用户名非法
+14:1:34 用户名非法
+14:1:34 用户名非法
+14:1:34 用户名非法
+14:1:34 用户名非法
+14:1:34 用户名非法
+14:1:35 用户名非法
+14:1:35 用户名非法
+14:1:35 用户名非法
+14:1:35 用户名非法
+14:1:35 用户名非法
+14:1:35 用户名非法
+14:1:36 用户名非法
+14:1:36 用户名非法
+14:1:36 用户名非法
+14:1:36 用户名非法
+14:1:36 用户名非法
+14:1:37 用户名非法
+14:1:37 用户名非法
+14:1:37 用户名非法
+14:1:37 用户名非法
+14:1:37 用户名非法
+14:1:37 用户名非法
+14:1:38 用户名非法
+14:1:38 用户名非法
+14:1:38 用户名非法
+14:1:38 用户名非法
+14:1:38 用户名非法
+14:1:39 用户名非法
+14:1:39 用户名非法
+14:1:39 用户名非法
+14:1:39 用户名非法
+14:1:39 用户名非法
+14:1:39 用户名非法
+14:1:40 用户名非法
+14:1:40 用户名非法
+14:1:40 用户名非法
+14:1:40 用户名非法
+14:1:40 用户名非法
+14:1:41 用户名非法
+14:1:41 用户名非法
+14:1:41 用户名非法
+14:1:41 用户名非法
+14:1:41 用户名非法
+14:1:42 用户名非法
+14:1:42 用户名非法
+14:1:42 用户名非法
+14:1:42 用户名非法
+14:1:42 用户名非法
+14:1:43 用户名非法
+14:1:43 用户名非法
+14:1:43 用户名非法
+14:1:43 用户名非法
+14:1:43 用户名非法
+14:1:44 用户名非法
+14:1:44 用户名非法
+14:1:44 用户名非法
+14:1:44 用户名非法
+14:1:44 用户名非法
+14:1:44 用户名非法
+14:1:45 用户名非法
+14:1:45 用户名非法
+14:1:45 用户名非法
+14:1:45 用户名非法
+14:1:45 用户名非法
+14:1:46 用户名非法
+14:1:46 用户名非法
+14:1:46 用户名非法
+14:1:46 用户名非法
+14:1:47 用户名非法
+14:1:47 用户名非法
+14:1:47 用户名非法
+14:1:47 用户名非法
+14:1:47 用户名非法
+14:1:47 用户名非法
+14:1:48 用户名非法
+14:1:48 用户名非法
+14:1:48 用户名非法
+14:1:48 用户名非法
+14:1:48 用户名非法
+14:1:49 用户名非法
+14:1:49 用户名非法
+14:1:49 用户名非法
+14:1:49 用户名非法
+14:1:49 用户名非法
+14:1:50 用户名非法
+14:1:50 用户名非法
+14:1:50 用户名非法
+14:1:50 用户名非法
+14:1:50 用户名非法
+14:1:51 用户名非法
+14:1:51 用户名非法
+14:1:51 用户名非法
+14:1:51 用户名非法
+14:1:51 用户名非法
+14:1:52 用户名非法
+14:1:52 用户名非法
+14:1:52 用户名非法
+14:1:52 用户名非法
+14:1:52 用户名非法
+14:1:53 用户名非法
+14:1:53 用户名非法
+14:1:53 用户名非法
+14:1:53 用户名非法
+14:1:54 用户名非法
+14:1:54 用户名非法
+14:1:54 用户名非法
+14:1:54 用户名非法
+14:1:54 用户名非法
+14:1:55 用户名非法
+14:1:55 用户名非法
+14:1:55 用户名非法
+14:1:55 用户名非法
+14:1:55 用户名非法
+14:1:56 用户名非法
+14:1:56 用户名非法
+14:1:56 用户名非法
+14:1:56 用户名非法
+14:1:57 用户名非法
+14:1:57 用户名非法
+14:1:57 用户名非法
+14:1:57 用户名非法
+14:1:57 用户名非法
+14:1:58 用户名非法
+14:1:58 用户名非法
+14:1:58 用户名非法
+14:1:58 用户名非法
+14:1:58 用户名非法
+14:1:59 用户名非法
+14:1:59 用户名非法
+14:1:59 用户名非法
+14:1:59 用户名非法
+14:1:59 用户名非法
+14:2:0 用户名非法
+14:2:0 用户名非法
+14:2:0 用户名非法
+14:2:0 用户名非法
+14:2:1 用户名非法
+14:2:1 用户名非法
+14:2:1 用户名非法
+14:2:1 用户名非法
+14:2:2 用户名非法
+14:2:2 用户名非法
+14:2:2 用户名非法
+14:2:2 用户名非法
+14:2:2 用户名非法
+14:2:3 用户名非法
+14:2:3 用户名非法
+14:2:3 用户名非法
+14:2:4 用户名非法
+14:2:4 用户名非法
+14:2:4 用户名非法
+14:2:4 用户名非法
+14:2:5 用户名非法
+14:2:5 用户名非法
+14:2:5 用户名非法
+14:2:5 用户名非法
+14:2:6 用户名非法
+14:2:6 用户名非法
+14:2:6 用户名非法
+14:2:6 用户名非法
+14:2:7 youngchou,disconnect登出
+14:2:7 在线用户: 
+14:2:8 在线用户: youngchou
+14:2:20 聊天室访问地址为 http://%s:%s,::,80
+14:2:20 在线用户: youngchou
+14:2:24 14:02:24,youngchou,fasd
+14:2:25 14:02:25,youngchou,fsad
+14:2:48 用户名非法
+14:2:56 用户名非法
+14:4:46 用户名非法
+14:5:13 匿名,登出
+14:5:13 用户名非法
+14:5:15 匿名,登出
+14:5:15 用户名非法
+14:5:15 匿名,登出
+14:5:15 用户名非法
+14:5:20 匿名,登出
+14:5:20 用户名非法
+14:5:20 匿名,登出
+14:5:20 用户名非法
+14:5:20 匿名,登出
+14:5:20 用户名非法
+14:5:20 匿名,登出
+14:5:20 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:22 匿名,登出
+14:5:22 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:28 匿名,登出
+14:5:28 用户名非法
+14:5:47 14:05:47,youngchou,fsdf
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:22 用户名非法
+14:12:40 14:12:40,youngchou,fsa
+14:13:4 youngchou,disconnect登出
+14:13:4 在线用户: 
+14:15:38 在线用户: youngchou
+14:15:57 用户名非法
+14:16:26 youngchou,disconnect登出
+14:16:26 在线用户: 
+14:16:35 在线用户: youngchou
+14:16:44 youngchou,disconnect登出
+14:16:44 在线用户: 
+14:16:46 在线用户: youngchou
+14:16:55 用户名非法
+14:16:56 youngchou,disconnect登出
+14:16:56 在线用户: 
+14:17:3 在线用户: youngchou
+14:17:7 youngchou,disconnect登出
+14:17:7 在线用户: 
+14:17:8 在线用户: youngchou
+14:17:14 youngchou,disconnect登出
+14:17:14 在线用户: 
+14:17:15 在线用户: youngchou
+14:17:17 youngchou,disconnect登出
+14:17:17 在线用户: 
+14:17:18 在线用户: youngchou
+14:17:21 youngchou,disconnect登出
+14:17:21 在线用户: 
+14:17:31 在线用户: youngchou
+14:17:44 用户名非法
+14:18:13 用户名非法
+14:18:16 用户名非法
+14:18:16 用户名非法
+14:18:18 用户名非法
+14:18:18 用户名非法
+14:18:18 用户名非法
+14:18:18 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:20 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:22 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:25 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:29 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:18:30 用户名非法
+14:19:55 用户名非法
+14:19:55 用户名非法
+14:19:55 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:56 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:57 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:58 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:19:59 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:0 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:1 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:2 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:3 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:4 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:5 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:6 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:7 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:8 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:9 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:10 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:11 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:12 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:13 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:14 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:15 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:16 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:17 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:18 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:19 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:20 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:21 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:22 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:23 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:24 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:25 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:26 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:27 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:28 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:29 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:30 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:31 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:32 用户名非法
+14:20:33 用户名非法
+14:20:33 用户名非法
+14:20:33 用户名非法
+14:20:33 用户名非法
+14:25:40 用户名非法
+14:25:47 用户名非法
+14:26:9 用户名非法
+14:26:11 用户名非法
+14:26:11 用户名非法
+14:28:45 匿名,登出
+14:28:45 youngchou,disconnect登出
+14:28:45 在线用户: 
+14:28:45 用户名非法
+14:28:55 在线用户: youngchou
+14:28:57 匿名,登出
+14:28:57 youngchou,disconnect登出
+14:28:57 在线用户: 
+14:28:57 用户名非法
+14:29:0 用户名非法
+14:29:0 用户名非法
+14:30:45 在线用户: youngchou
+14:30:48 匿名,登出
+14:30:48 youngchou,disconnect登出
+14:30:48 在线用户: 
+14:30:48 用户名非法
+14:33:2 在线用户: youngchou
+14:33:4 匿名,登出
+14:33:4 youngchou,disconnect登出
+14:33:4 在线用户: 
+14:33:4 用户名非法
+14:34:0 在线用户: youngchou
+14:34:3 匿名,登出
+14:34:3 youngchou,disconnect登出
+14:34:3 在线用户: 
+14:34:3 用户名非法
+14:35:49 在线用户: youngchou
+14:35:52 匿名,登出
+14:35:52 youngchou,disconnect登出
+14:35:52 在线用户: 
+14:35:52 用户名非法
+14:37:36 在线用户: youngchou
+14:37:38 匿名,登出
+14:37:38 youngchou,disconnect登出
+14:37:38 在线用户: 
+14:37:38 用户名非法
+14:39:35 聊天室访问地址为 http://%s:%s,::,80
+14:39:39 在线用户: youngchou
+14:39:42 匿名,登出
+14:39:42 youngchou,disconnect登出
+14:39:42 在线用户: 
+14:39:42 在线用户: 匿名
+14:40:33 匿名,disconnect登出
+14:40:33 在线用户: 
+14:40:35 在线用户: youngchou
+14:40:37 匿名,登出
+14:40:37 youngchou,disconnect登出
+14:40:37 在线用户: 
+14:40:37 在线用户: 匿名
+14:40:47 聊天室访问地址为 http://%s:%s,::,80
+14:40:48 在线用户: ss
+14:40:51 ss,disconnect登出
+14:40:51 在线用户: 
+14:40:54 在线用户: youngchou
+14:40:56 ,登出
+14:40:56 youngchou,disconnect登出
+14:40:56 在线用户: 
+14:40:56 用户名非法
+14:43:44 在线用户: youngchou
+14:43:46 ,登出
+14:43:46 youngchou,disconnect登出
+14:43:46 在线用户: 
+14:43:47 ,登出
+14:43:47 用户名非法
+14:43:50 ,登出
+14:43:50 用户名非法
+14:43:50 ,登出
+14:43:50 用户名非法
+14:43:51 ,登出
+14:43:51 用户名非法
+14:43:51 ,登出
+14:43:51 用户名非法
+14:43:51 ,登出
+14:43:51 用户名非法
+14:43:54 ,登出
+14:43:54 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:43:59 用户名非法
+14:50:46 在线用户: youngchou
+14:50:48 ,登出
+14:50:49 youngchou,disconnect登出
+14:50:49 在线用户: 
+14:51:4 ,登出
+14:51:4 用户名非法
+14:52:26 用户名非法
+14:52:26 用户名非法
+14:52:27 在线用户: youngchou
+14:52:29 ,登出
+14:52:29 youngchou,disconnect登出
+14:52:29 在线用户: 
+14:52:30 在线用户: youngchou
+14:52:32 ,登出
+14:52:32 youngchou,disconnect登出
+14:52:32 在线用户: 
+14:52:38 用户名非法
+14:52:39 在线用户: youngchou
+14:52:40 ,登出
+14:52:40 youngchou,disconnect登出
+14:52:40 在线用户: 
+14:53:48 用户名非法
+14:53:49 在线用户: youngchou
+14:53:51 ,登出
+14:53:51 youngchou,disconnect登出
+14:53:51 在线用户: 
+14:53:52 在线用户: youngchou
+14:53:54 用户名非法
+14:53:54 ,登出
+14:53:54 youngchou,disconnect登出
+14:53:54 在线用户: 
+14:53:55 在线用户: youngchou
+14:53:57 ,登出
+14:53:57 youngchou,disconnect登出
+14:53:57 在线用户: 
+14:54:3 用户名非法
+14:54:4 在线用户: youngchou
+14:54:8 youngchou,disconnect登出
+14:54:8 在线用户: 
+14:54:9 在线用户: youngchou
+14:54:11 ,登出
+14:54:11 youngchou,disconnect登出
+14:54:11 在线用户: 
+14:54:54 用户名非法
+14:54:55 在线用户: youngchou
+14:54:56 ,登出
+14:54:56 youngchou,disconnect登出
+14:54:56 在线用户: 
+14:55:16 用户名非法
+14:55:19 用户名非法
+14:55:43 用户名非法
+14:55:44 在线用户: youngchou
+14:55:46 ,登出
+14:55:46 youngchou,disconnect登出
+14:55:46 在线用户: 
+14:56:42 用户名非法
+14:56:44 在线用户: youngchou
+14:56:45 ,登出
+14:56:45 youngchou,disconnect登出
+14:56:45 在线用户: 
+14:56:47 在线用户: fasdfdsa
+14:56:57 在线用户: fasdfdsa,youngchou
+14:59:49 fasdfdsa,disconnect登出
+14:59:49 在线用户: youngchou
+14:59:51 用户名非法
+15:0:38 用户名非法
+15:0:43 youngchou,disconnect登出
+15:0:43 在线用户: 
+15:0:44 在线用户: youngchou
+15:0:49 用户名非法
+15:0:54 youngchou,disconnect登出
+15:0:54 在线用户: 
+15:0:54 在线用户: youngchou
+15:0:58 用户名非法
+15:1:27 用户名非法
+15:1:53 ,登出
+15:1:53 用户名非法
+15:2:14 ,登出
+15:2:14 youngchou,disconnect登出
+15:2:14 在线用户: 
+15:2:18 在线用户: 周洋
+15:2:25 周洋,disconnect登出
+15:2:25 在线用户: 
+15:2:54 在线用户: youngchou
+15:3:14 15:03:14,youngchou,不能同时登录啊
+15:3:22 ,登出
+15:3:22 youngchou,disconnect登出
+15:3:22 在线用户: 
+15:3:29 用户名非法
+15:3:30 用户名非法
+15:3:31 用户名非法
+15:3:32 用户名非法
+15:3:33 用户名非法
+15:3:34 用户名非法
+15:3:35 用户名非法
+15:3:36 用户名非法
+15:3:38 用户名非法
+15:3:38 用户名非法
+15:3:39 用户名非法
+15:3:40 用户名非法
+15:3:41 ,登出
+15:3:41 用户名非法
+15:3:45 在线用户: youngchou
+15:3:47 ,登出
+15:3:47 youngchou,disconnect登出
+15:3:47 在线用户: 
+15:3:52 用户名非法
+15:3:53 用户名非法
+15:3:54 用户名非法
+15:3:55 用户名非法
+15:3:57 用户名非法
+15:3:58 用户名非法
+15:3:59 用户名非法
+15:4:0 用户名非法
+15:4:1 用户名非法
+15:4:2 用户名非法
+15:4:4 用户名非法
+15:4:5 用户名非法
+15:4:6 用户名非法
+15:4:7 用户名非法
+15:5:29 聊天室访问地址为 http://%s:%s,::,80
+15:5:33 在线用户: youngchou
+15:5:34 ,登出
+15:5:34 youngchou,disconnect登出
+15:5:34 在线用户: 
+15:5:37 在线用户: ђ}
+15:6:56 在线用户: ђ},youngchou
+15:7:2 ђ},disconnect登出
+15:7:2 在线用户: youngchou
+15:7:3 在线用户: youngchou,young
+15:7:6 15:07:06,young,fsad
+15:7:43 young,disconnect登出
+15:7:43 在线用户: youngchou
+15:7:44 用户名非法
+15:7:47 用户名非法
+15:8:4 用户名非法
+15:8:8 聊天室访问地址为 http://%s:%s,::,80
+15:8:10 在线用户: youngchou
+15:8:12 ,登出
+15:8:12 youngchou,disconnect登出
+15:8:12 在线用户: 
+15:8:22 ,登出
+15:8:22 用户名非法
+15:8:26 在线用户: youngchou
+15:19:18 youngchou,disconnect登出
+15:19:18 在线用户: 
+15:19:19 在线用户: youngchou
+15:19:20 ,登出
+15:19:20 youngchou,disconnect登出
+15:19:21 在线用户: 
+15:19:22 ,登出
+15:19:22 用户名非法
+15:19:25 ,登出
+15:19:25 用户名非法
+15:19:25 ,登出
+15:19:25 用户名非法
+15:19:49 用户名非法
+15:19:49 用户名非法
+15:19:49 用户名非法
+15:19:49 用户名非法
+15:19:50 在线用户: youngchou
+15:19:52 ,登出
+15:19:52 youngchou,disconnect登出
+15:19:52 在线用户: 
+15:22:20 用户名非法
+15:22:22 在线用户: youngchou
+15:22:25 ,登出
+15:22:25 youngchou,disconnect登出
+15:22:25 在线用户: 
+15:22:31 用户名非法
+15:22:48 在线用户: youngchou
+15:22:50 ,登出
+15:22:50 youngchou,disconnect登出
+15:22:50 在线用户: 
+15:22:51 ,登出
+15:22:51 用户名非法
+15:22:52 ,登出
+15:22:52 用户名非法
+15:22:52 ,登出
+15:22:52 用户名非法
+15:23:43 用户名非法
+15:23:43 用户名非法
+15:23:43 用户名非法
+15:23:43 用户名非法
+15:23:45 在线用户: youngchou
+15:23:52 ,登出
+15:23:52 youngchou,disconnect登出
+15:23:52 在线用户: 
+15:23:54 用户名非法
+15:23:56 在线用户: youngchou
+15:24:14 youngchou,disconnect登出
+15:24:14 在线用户: 
+15:24:16 在线用户: youngchou
+15:24:37 youngchou,disconnect登出
+15:24:37 在线用户: 
+15:24:39 在线用户: youngchou
+15:24:41 ,登出
+15:24:42 youngchou,disconnect登出
+15:24:42 在线用户: 
+15:24:45 ,登出
+15:24:45 用户名非法
+15:25:36 用户名非法
+15:25:36 用户名非法
+15:25:37 在线用户: youngchou
+15:25:38 ,登出
+15:25:39 youngchou,disconnect登出
+15:25:39 在线用户: 
+15:26:31 用户名非法
+15:26:33 在线用户: youngchou
+15:26:34 ,登出
+15:26:34 youngchou,disconnect登出
+15:26:34 在线用户: 
+15:27:19 用户名非法
+15:27:20 在线用户: youngchou
+15:27:22 ,登出
+15:27:22 youngchou,disconnect登出
+15:27:22 在线用户: 
+15:27:53 用户名非法
+15:27:54 在线用户: youngchou
+15:27:55 ,登出
+15:27:55 youngchou,disconnect登出
+15:27:55 在线用户: 
+15:27:57 ,登出
+15:27:57 用户名非法
+15:27:59 用户名非法
+15:27:59 用户名非法
+15:28:1 在线用户: youngchou
+15:28:2 ,登出
+15:28:2 youngchou,disconnect登出
+15:28:2 在线用户: 
+15:28:11 ,登出
+15:28:11 用户名非法
+15:28:14 ,登出
+15:28:14 用户名非法
+15:28:14 ,登出
+15:28:14 用户名非法
+15:28:15 ,登出
+15:28:15 用户名非法
+15:28:15 ,登出
+15:28:15 用户名非法
+15:28:15 ,登出
+15:28:15 用户名非法
+15:28:15 ,登出
+15:28:15 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:22 ,登出
+15:28:22 用户名非法
+15:28:23 ,登出
+15:28:23 用户名非法
+15:28:23 ,登出
+15:28:23 用户名非法
+15:28:23 ,登出
+15:28:23 用户名非法
+15:28:23 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:24 ,登出
+15:28:24 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:30 ,登出
+15:28:30 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:49 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:50 用户名非法
+15:28:51 在线用户: youngchou
+15:28:52 ,登出
+15:28:52 youngchou,disconnect登出
+15:28:52 在线用户: 
+15:29:0 ,登出
+15:29:0 用户名非法
+15:29:10 用户名非法
+15:29:10 用户名非法
+15:29:12 在线用户: youngchou
+15:29:13 ,登出
+15:29:13 youngchou,disconnect登出
+15:29:13 在线用户: 
+15:32:41 用户名非法
+15:32:43 在线用户: youngchou
+15:32:44 ,登出
+15:32:44 youngchou,disconnect登出
+15:32:44 在线用户: 
+15:33:37 在线用户: youngchou
+15:33:38 ,登出
+15:33:38 youngchou,disconnect登出
+15:33:38 在线用户: 
+15:33:39 ,登出
+15:33:39 用户名非法
+15:33:42 用户名非法
+15:33:42 用户名非法
+15:33:44 在线用户: youngchou
+15:33:49 youngchou,disconnect登出
+15:33:49 在线用户: 
+15:33:51 在线用户: youngchou
+15:33:52 ,登出
+15:33:52 youngchou,disconnect登出
+15:33:52 在线用户: 
+15:34:57 在线用户: youngchou
+15:35:47 youngchou,disconnect登出
+15:35:47 在线用户: 
+15:35:49 在线用户: youngchou
+15:35:50 ,登出
+15:35:50 youngchou,disconnect登出
+15:35:50 在线用户: 
+15:35:53 在线用户: 周洋
+15:35:55 ,登出
+15:35:55 周洋,disconnect登出
+15:35:55 在线用户: 
+15:36:5 在线用户: youngchou
+15:36:5 ,登出
+15:36:5 youngchou,disconnect登出
+15:36:5 在线用户: 
+15:36:9 在线用户: vbyh
+15:36:50 15:36:50,vbyh,sdfa
+15:36:51 15:36:51,vbyh,fasd
+15:36:52 15:36:52,vbyh,sdaf
+15:38:11 vbyh,disconnect登出
+15:38:11 在线用户: 
+15:38:14 在线用户: youngchou
+15:38:17 ,登出
+15:38:17 youngchou,disconnect登出
+15:38:17 在线用户: 
+15:38:30 用户名非法
+15:38:32 在线用户: youngchou
+15:38:32 ,登出
+15:38:32 youngchou,disconnect登出
+15:38:32 在线用户: 
+15:38:37 在线用户: 周洋
+15:38:41 ,登出
+15:38:41 周洋,disconnect登出
+15:38:41 在线用户: 
+15:39:43 在线用户: youngchou
+15:40:34 youngchou,disconnect登出
+15:40:34 在线用户: 
+15:40:36 在线用户: youngchou
+15:40:44 在线用户: youngchou,准备好
+15:41:19 youngchou,disconnect登出
+15:41:19 在线用户: 准备好
+15:41:19 准备好,disconnect登出
+15:41:19 在线用户: 
+15:41:20 在线用户: youngchou
+15:41:42 用户名非法
+15:41:42 youngchou,disconnect登出
+15:41:42 在线用户: 
+15:41:44 在线用户: youngchou
+15:41:46 ,登出
+15:41:46 youngchou,disconnect登出
+15:41:46 在线用户: 
+15:41:47 在线用户: fsaf
+15:41:49 ,登出
+15:41:49 fsaf,disconnect登出
+15:41:49 在线用户: 
+15:41:50 在线用户: fsaffsad
+15:41:57 ,登出
+15:41:57 fsaffsad,disconnect登出
+15:41:57 在线用户: 
+15:42:2 在线用户: 周洋
+15:42:9 15:42:09,周洋,fsad
+15:42:45 周洋,disconnect登出
+15:42:45 在线用户: 
+15:42:47 在线用户: youngchou
+15:42:49 15:42:49,youngchou,fsda
+15:43:6 youngchou,disconnect登出
+15:43:6 在线用户: 
+15:43:7 在线用户: youngchou
+15:44:2 youngchou,disconnect登出
+15:44:2 在线用户: 
+15:44:3 在线用户: youngchou
+15:44:7 15:44:07,youngchou,fasd
+15:44:8 15:44:08,youngchou,fsa
+15:44:15 15:44:15,youngchou,fasd
+15:44:18 15:44:18,youngchou,&lt;fsad&gt;
+15:44:27 ,登出
+15:44:27 youngchou,disconnect登出
+15:44:27 在线用户: 
+15:44:30 在线用户: 周洋
+15:44:36 15:44:36,周洋,ladys
+15:44:41 ,登出
+15:44:41 周洋,disconnect登出
+15:44:41 在线用户: 
+15:45:29 在线用户: youngchou
+15:45:33 ,登出
+15:45:33 youngchou,disconnect登出
+15:45:33 在线用户: 
+15:45:54 在线用户: youngchou
+15:45:56 ,登出
+15:45:56 youngchou,disconnect登出
+15:45:56 在线用户: 
+15:47:28 在线用户: youngchou
+15:47:30 ,登出
+15:47:30 youngchou,disconnect登出
+15:47:30 在线用户: 
+15:48:36 在线用户: youngchou
+15:48:38 ,登出
+15:48:38 youngchou,disconnect登出
+15:48:38 在线用户: 
+15:50:38 在线用户: youngchou
+15:50:44 ,登出
+15:50:44 youngchou,disconnect登出
+15:50:44 在线用户: 
+15:50:53 ,登出
+15:50:53 用户名非法
+15:50:54 在线用户: 周洋
+15:50:59 周洋,disconnect登出
+15:50:59 在线用户: 
+15:51:0 在线用户: youngchou
+15:51:3 ,登出
+15:51:3 youngchou,disconnect登出
+15:51:3 在线用户: 
+15:51:6 在线用户: h8
+15:51:13 ,登出
+15:51:13 h8,disconnect登出
+15:51:13 在线用户: 
+15:51:14 在线用户: 周游
+15:51:18 ,登出
+15:51:18 周游,disconnect登出
+15:51:18 在线用户: 
+15:51:20 在线用户: h8
+15:51:24 ,登出
+15:51:24 h8,disconnect登出
+15:51:24 在线用户: 
+15:51:27 在线用户: h8
+15:51:30 h8,disconnect登出
+15:51:30 在线用户: 
+15:51:32 在线用户: youngchou
+15:51:34 ,登出
+15:51:35 youngchou,disconnect登出
+15:51:35 在线用户: 
+15:51:37 在线用户: hl1
+15:51:40 ,登出
+15:51:40 hl1,disconnect登出
+15:51:40 在线用户: 
+15:51:44 在线用户: 周扬1
+15:51:49 ,登出
+15:51:49 周扬1,disconnect登出
+15:51:49 在线用户: 
+15:51:50 在线用户: hl1
+15:51:52 ,登出
+15:51:52 hl1,disconnect登出
+15:51:52 在线用户: 
+15:51:53 在线用户: 周扬1
+15:54:29 周扬1,disconnect登出
+15:54:29 在线用户: 
+15:54:31 在线用户: youngchou
+15:54:33 15:54:33,youngchou,fsad
+15:54:45 youngchou,disconnect登出
+15:54:45 在线用户: 
+15:54:47 在线用户: youngchou
+15:54:51 ,登出
+15:54:51 youngchou,disconnect登出
+15:54:51 在线用户: 
+15:54:52 在线用户: fsd
+15:54:54 ,登出
+15:54:54 fsd,disconnect登出
+15:54:55 在线用户: 
+15:54:56 在线用户: fsdfasd
+15:54:58 ,登出
+15:54:58 fsdfasd,disconnect登出
+15:54:58 在线用户: 
+15:54:59 在线用户: fsdfasd
+15:55:1 fsdfasd,disconnect登出
+15:55:1 在线用户: 
+16:8:40 在线用户: youngchou
+16:8:42 youngchou,disconnect登出
+16:8:42 在线用户: 
