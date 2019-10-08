@@ -1,6 +1,8 @@
 ﻿const express = require('express');
 const irc = express.Router();
-const { log } = require('../util')
+const { log } = require('../util');
+const clientId = 'b8dd480b5b086e402967eb733ec376d9272b2455ea91e7783ce7967c1a0b2acb';
+const secret = '4b7aba5bc4a1667f73fdb78591dbf18163492f3a3553823f71d9c00e4bf5c9b1';
 
 var sendHtml = function(path, response) {
     var fs = require('fs')
@@ -41,7 +43,7 @@ irc.get('/', function(request, resp) {
 		var req = url.parse(request.url);
 		var query = parsequery(req.query);
 		if(query.code) {
-			oauth.getOAuthAccessToken(query.code, {'grant_type':'authorization_code','redirect_uri':'http://irc.xupt.org/'}, function(e, access_token) {
+			oauth.getOAuthAccessToken(query.code, {'grant_type':'authorization_code','redirect_uri':'http://127.0.0.1:8888/'}, function(e, access_token) {
 				// log("Permitting access from " + request.connection.remoteAddress);
 				// exec("ipset add ZYPC " + request.connection.remoteAddress);
 				if(e != null|| access_token == undefined) {
@@ -68,7 +70,7 @@ irc.get('/', function(request, resp) {
 				}
 			});
 		} else {
-			var uri = oauth.getAuthorizeUrl({'redirect_uri':'http://127.0.0.1/','response_type':'code'});
+			var uri = oauth.getAuthorizeUrl({'redirect_uri':'http://127.0.0.1:8888/','response_type':'code'});
 			var data = `<script>window.location.href = "${uri}";</script>`
 			resp.send(data)
 		}

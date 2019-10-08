@@ -3910,3 +3910,12 @@ Connect Timeout: 10
 16:8:40 在线用户: youngchou
 16:8:42 youngchou,disconnect登出
 16:8:42 在线用户: 
+15:17:59 聊天室访问地址为 http://%s:%s,::,9000
+15:19:0 聊天室访问地址为 http://%s:%s,::,8888
+15:21:44 聊天室访问地址为 http://%s:%s,::,8888
+15:22:24 在线用户: youngchou
+15:22:29 youngchou,disconnect登出
+15:22:29 在线用户: 
+15:22:53 聊天室访问地址为 http://%s:%s,::,8888
+15:23:0 在线用户: youngchou
+15:23:15 15:23:15,youngchou,金凡
