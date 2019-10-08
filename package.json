@@ -4,7 +4,8 @@
   "description": "在线聊天室",
   "main": "rooter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
   },
   "repository": {
     "type": "git",
