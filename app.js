@@ -28,7 +28,7 @@ const irc = require('./routes/irc')
 
 app.use('/', irc)
 
-var server = app.listen(9000, function() {
+var server = app.listen(8888, function() {
     var host = server.address().address
     var port = server.address().port
     log("聊天室访问地址为 http://%s:%s", host, port)
